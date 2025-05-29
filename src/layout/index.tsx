@@ -6,7 +6,7 @@ import 'animate.css';
 export default function ProfileCardLayout() {
       return (
          <section className="bg-gradient-to-r from-indigo-500 from-0% to-emerald-500 
-         to-170% p-5 w-[325px] relative left-[-.5em] h-100 rounded-[16px]   border lg:w-90 
+         to-170% p-5 w-[325px] relative left-[-1em] h-100 rounded-[16px]   border lg:w-90 
           hover:scale-105  cursor-pointer animate__animated animate__flipInY z-100" >
              <div className="box rounded-t-[16px] ">
                 </div>

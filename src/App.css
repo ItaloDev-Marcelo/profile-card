@@ -5,7 +5,7 @@
   text-align: center;
 }
 
-body {
+body::after, body::before {
   background-color: #101828;
   overflow: hidden;
   position: relative;
