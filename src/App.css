@@ -78,7 +78,7 @@ body::before {
   left: 0;
 }
 
-div img {
+figure img {
   width: 75px;
   height: 75px;
   border-radius: 50%;

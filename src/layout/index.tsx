@@ -11,9 +11,9 @@ export default function ProfileCardLayout() {
              <div className="box rounded-t-[16px] ">
                 </div>
               <div className="flex flex-col justify-center relative text-center items-center top-20 " >
-                 <div className="z-40 border-2 border-b-black  rounded-full overflow-hidden">
+                 <figure className="z-40 border-4 border-indigo-500  rounded-full overflow-hidden">
                     <img src={ProfilePhoto} alt="Italo Marcelo"  />
-                 </div>
+                 </figure>
                  <section className="z-40">
                    <HeaderInformation name='Italo Marcelo' cargo='Desenvolvedor Frontend' introduction='Cria interfaces bonitas, rápidas e intuitivas.' />
                 </section>
